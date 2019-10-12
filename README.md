@@ -1,2 +1,1 @@
-# website-automation-using-voice
-chrome extension
+# Browser-automation-using-voice
